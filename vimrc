@@ -14,9 +14,10 @@ set secure
 "git clone https://github.com/Valloric/YouCompleteMe
 "git clone https://github.com/justinmk/vim-syntax-extra
 "git clone https://github.com/junegunn/fzf.vim
-"git clone git://github.com/tpope/vim-endwise.git
+"git clone https://github.com/tpope/vim-endwise.git
 "git clone https://github.com/mileszs/ack.vim
 "git clone https://github.com/rhysd/vim-clang-format
+"git clone https://github.com/preservim/nerdtree
 "============================================= STYLE =====================================
 
 "mark line 110 in color
