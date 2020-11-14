@@ -11,3 +11,6 @@ Installs the following plugins:
 - vim-endwise
 - nerdtree
 - vim-gitgutter
+
+
+It also configures fzf and YouCompleteMe on the host system. 
