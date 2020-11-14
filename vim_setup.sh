@@ -32,6 +32,7 @@ python3 install.py --clangd-completer
 sudo apt install -y clang-format 
 sudo apt install -y ctags 
 sudo apt install -y ack 
+sudo apt install -y tmux 
 
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
